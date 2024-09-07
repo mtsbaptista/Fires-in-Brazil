@@ -38,7 +38,7 @@ O JavaScript é a magia por trás da interatividade da nossa página. Ele permit
 
 Aqui está o funcionamento do nosso código JavaScript:
 
-- **Função `pesquisar()`:** Esta função é acionada quando o usuário clica no botão de pesquisa. Ela pega o texto do campo de pesquisa, o converte para minúsculas e verifica se ele está presente em qualquer um dos dados disponíveis.
+- **Função `pesquisar()`:** Esta função é acionada quando o usuário clica no botão de pesquisa. Ela pega o texto do campo de pesquisa, o converte para minúsculas e verifica se o texto está presente em qualquer um dos dados disponíveis.
 - **Manipulação de Resultados:** Se o texto digitado corresponder a qualquer parte dos dados, os resultados são formatados em HTML e exibidos na página.
 
 ## 🎨 Estilos e Layout
@@ -54,6 +54,8 @@ O estilo da página é definido no arquivo `style.css`. Ele garante que a aplica
 
 ## 📝 Autor
 
-Esse projeto foi desenvolvido por [Mateus de Paula Baptista da Silva](#) em 2024. Se você tiver sugestões ou quiser contribuir, sinta-se à vontade para abrir uma issue ou enviar um pull request!
+Este projeto foi desenvolvido por [Mateus de Paula Baptista da Silva](#) em 2024. Importante destacar que Mateus é um iniciante no mundo do desenvolvimento web, com menos de um mês de aprendizado. Se você tiver sugestões ou quiser contribuir, sinta-se à vontade para abrir uma issue ou enviar um pull request!
+
+
 
 
